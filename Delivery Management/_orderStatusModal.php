@@ -8,7 +8,7 @@
     
 ?>
 
-<!-- Modal -->
+<!--orderStatus Modal -->
 <div class="modal fade" id="orderStatus<?php echo $orderid; ?>" tabindex="-1" role="dialog" aria-labelledby="orderStatus<?php echo $orderid; ?>" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
